@@ -1,0 +1,4 @@
+Flask==2.2.3
+joblib==1.1.1
+numpy==1.23.5
+PyWavelets==1.4.1
