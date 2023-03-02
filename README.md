@@ -2,7 +2,7 @@
 
 
 ## About
-This is a machine learning project that aims to classify different sports personalities based on their facial features such as 2 eyes. The classifier is built using machine learning techniques and is capable of predicting the personality type of a given sports player with high accuracy.
+This is a machine learning project that aims to classify different sports personalities based on their facial features such as 2 eyes. The classifier is built using machine learning techniques and is capable of predicting the sports player with high accuracy.
 
 The project has 5 target classes :
 - Virat Kohli 
@@ -13,6 +13,12 @@ The project has 5 target classes :
 
 
 ## Folder Structure 
+
+The folder structure and it's description is as follows:
+- UI
+- Server
+- Model
+- 
 
 ## Tech Stack Used
 
