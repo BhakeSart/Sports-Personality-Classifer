@@ -20,9 +20,16 @@ The folder structure and it's description is as follows:
 - Model
 - 
 
-## Tech Stack Used
+## Tech Stack and Tools Used
+- Python
+- Numpy and OpenCV for data cleaning
+- Matplotlib & Seaborn for data visualization
+-Sklearn for model building
+- Jupyter notebook, visual studio code and pycharm as IDE
+- Python flask for http server
+- HTML/CSS/Javascript for UI
 
-
+## Flow of the Project
 
 ## Installation and running on localhost 
 
