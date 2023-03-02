@@ -7,8 +7,7 @@ This is a machine learning project that aims to classify different sports person
 ## Installation
 
 To install the necessary dependencies, use the following command:
-"""
+```
 pip install -r requirements.txt
-
-"""
+```
 
